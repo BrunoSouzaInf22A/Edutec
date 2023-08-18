@@ -1,2 +1,2 @@
 # Edutec
-Projeto desenvolvido em 2020
+Projeto criado para alertar sobre os vírus presentes no mundo, desenvolvido em 2020
